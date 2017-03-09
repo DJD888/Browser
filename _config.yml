@@ -29,3 +29,5 @@ assets:
 permalink: /post/:title/
 
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'LICENSE']
+
+theme: jekyll-theme-time-machine
